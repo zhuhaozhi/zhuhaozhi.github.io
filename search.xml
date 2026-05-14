@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>手术已完成</title>
+    <url>/shousuok/</url>
+    <content><![CDATA[脸上鼻子左边半个黄豆大小的色素痣今日已切除，手术时间不到二十分钟。
+这颗痣跟了我二十年了，虽然本身长得不好看，但是 把它切除了会更顺眼一点，不至于太自卑。
+要每隔两天换一次药，一共两次；七天后拆线，也不知道效果如何…
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/hello-world/</url>
     <content><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.
@@ -16,14 +24,6 @@ More info: Generating
 Deploy to remote sites$ hexo deploy
 
 More info: Deployment
-]]></content>
-  </entry>
-  <entry>
-    <title>手术已完成</title>
-    <url>/shousuok/</url>
-    <content><![CDATA[脸上鼻子左边半个黄豆大小的色素痣今日已切除，手术时间不到二十分钟。
-这颗痣跟了我二十年了，虽然本身长得不好看，但是 把它切除了会更顺眼一点，不至于太自卑。
-要每隔两天换一次药，一共两次；七天后拆线，也不知道效果如何…
 ]]></content>
   </entry>
 </search>
